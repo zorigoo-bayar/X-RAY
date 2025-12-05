@@ -1,9 +1,0 @@
-streamlit==1.52.0
-pillow
-numpy
-pandas
-scikit-learn
-tqdm
-torch==2.9.1+cpu
-torchvision==0.15.2+cpu
--f https://download.pytorch.org/whl/torch_stable.html
