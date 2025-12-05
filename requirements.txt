@@ -1,7 +1,7 @@
 streamlit
+torch==2.2.0
+torchvision==0.17.0
 pillow
-numpy
 pandas
-scikit-learn
-tqdm
--f https://download.pytorch.org/whl/torch_stable.html
+numpy
+requests
